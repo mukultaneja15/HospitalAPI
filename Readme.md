@@ -64,9 +64,7 @@ We have use version-1 of api so that we can upgrade further in future according 
 3. `models`: Contains all Schema files or how our doctor,patients and reports are going to look in database.
 4. `routes`: It contains all the routes to forward the api requests to controllers and contains different routes for doctors, patients and reports.
 
-## Link to video to understand API requests
 
- `https://drive.google.com/file/d/1XBUs2m2rdGTnxiSyPuX4XKka80w1TbAo/view?usp=sharing`
 
 
 
